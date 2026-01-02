@@ -26,17 +26,13 @@
 ## 📝 The After-Action Report
 *To be completed at the end of the day.*
 
-### 🧠 Mindset & Thoughts
-*(How did I feel today? What was the "vibe" of my environment and how did I handle it?)*
-> 
 
 ### 🚫 Habit Resistance
 *Did I face any triggers (smoking/junk food)? How did I beat them?*
-> 
+
+
 
 ### ⭐ The Small Win
 *One specific thing I am proud of today:*
-> 
 
-### 🇩🇪 German Word of the Day
-*Word:* *Meaning:* 
+
