@@ -19,8 +19,8 @@ To leverage the discipline of daily commits to rebuild my lifestyle. This reposi
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **01** | [Jan 01](Logs/2026-01-01.md) | *Fighting Cues* | *Everform Movement/10 German verbs* | *Workout/Diet/No-Smoke* | 🟩 |
 | **02** | [Jan 02](Logs/2026-01-02.md) | *Diet & Hunger* | *Everform Obstacle Variation & Speed Scaling/Writing Email in German* | *Workout/Diet/No-Smoke* | 🟩 |
-| **03** | [Jan 03](Logs/2026-01-03.md) | *Start here* | *What did you build/learn?* | *Workout/Diet/No-Smoke* | 🟩 |
-| **04** | Jan 04 | | | | ⬜ |
+| **03** | [Jan 03](Logs/2026-01-03.md) | *Withdrawal Symptoms* | *Finished Ad Mediation for "Achtung"* | *Workout/Diet/No-Smoke* | 🟩 |
+| **04** | [Jan 04](Logs/2026-01-04.md) | *Start here* | *What did you build/learn?* | *Workout/Diet/No-Smoke* | 🟩 |
 | **05** | Jan 05 | | | | ⬜ |
 | **06** | Jan 06 | | | | ⬜ |
 | **07** | Jan 07 | | | | ⬜ |
